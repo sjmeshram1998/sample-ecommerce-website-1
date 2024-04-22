@@ -1,0 +1,81 @@
+.wrapper {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.margin-t {
+    margin-top: 6rem;
+}
+.card img {
+    border-radius: 15px;
+}
+.card1{
+    width: 23rem;
+    border-radius: 15px;
+    border:  1px solid #FFB524;
+    margin: 0.5rem;
+     cursor: pointer;
+  
+}   
+.card-body1 {
+    background-color: #FFB524;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.bg1 {
+    position: relative;
+    bottom: 76px;
+    background-color: #81C408;
+    border-radius: 15px;
+    padding: 0.8rem;
+    text-align: center;
+}
+
+
+
+.card2{
+    width: 23rem;
+    border-radius: 15px;
+    border:  1px solid #45595B;
+    margin: 0.5rem;
+     cursor: pointer;
+} 
+.card-body2 {
+    background-color: #45595B;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.bg2 {
+    position: relative;
+    bottom: 76px;
+    background-color: #F4F6F8;
+    border-radius: 15px;
+    padding: 0.8rem;
+    text-align: center;
+}
+.bg2-h1Color{
+color: #81C408;
+}
+
+.card3{
+    width: 23rem;
+    border-radius: 15px;
+    border:  1px solid #81C408;
+    margin: 0.5rem;
+     cursor: pointer;
+} 
+
+.card-body3 {
+    background-color: #81C408;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.bg3 {
+    position: relative;
+    bottom: 76px;
+    background-color: #FFB524;
+    border-radius: 15px;
+    padding: 0.8rem;
+    text-align: center;
+}

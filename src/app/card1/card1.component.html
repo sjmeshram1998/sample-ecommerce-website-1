@@ -1,0 +1,17 @@
+
+<div class="container-fluid px-5 pt-5 ">
+
+    <div class="cardWrap" >
+        <div class="card" *ngFor="let item of cardsData">
+    
+            <img [src]="item.img" class="card-img-top cards-img" alt="">
+            <div class="card-body">
+                <h5 class="card-title">{{item.name}}</h5>
+                <p class="card-text">{{item.title}}</p>
+                <h4>{{ item.price?.toString() }}/kg</h4>
+                <a  class="btn" (click)="addToCart(item)">Add to cart</a> 
+            </div>
+        </div>
+    </div>
+
+</div>

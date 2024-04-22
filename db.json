@@ -1,0 +1,186 @@
+{
+  "fruitables": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "100",
+      "img": "./assets/images/card1.jpg  "
+    },
+    {
+      "id": "2",
+      "name": "Custurdapple",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "500",
+      "img": "./assets/images/card2.webp"
+    },
+    {
+      "id": "3",
+      "name": "Raspberries",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "500",
+      "img": "./assets/images/card3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Oranges",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "500",
+      "img": "./assets/images/card4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Pomogranate",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "500",
+      "img": "./assets/images/card5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "100",
+      "img": "./assets/images/card6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Graps",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "100",
+      "img": "./assets/images/card7.webp"
+    },
+    {
+      "id": "8",
+      "name": "Banana",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "100",
+      "img": "./assets/images/card8.webp"
+    },
+    {
+      "id": "5",
+      "name": "Pomogranate",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "100",
+      "img": "./assets/images/card5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "100",
+      "img": "./assets/images/card6.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Custurdapple",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "150",
+      "img": "./assets/images/card2.webp"
+    },
+    {
+      "id": "6",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "150",
+      "img": "./assets/images/card6.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user1@gmail.com",
+      "password": "password1"
+    },
+    {
+      "id": "2",
+      "username": "user2@gmail.com",
+      "password": "password2"
+    }
+  ],
+  "vegitables": [
+    {
+      "id": "1",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "150",
+      "img": "./assets/images/veg1.avif"
+    },
+    {
+      "id": "2",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg2.avif"
+    },
+    {
+      "id": "3",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg3.avif"
+    },
+    {
+      "id": "4",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg4.avif"
+    },
+    {
+      "id": "5",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg5.avif"
+    },
+    {
+      "id": "6",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg6.avif"
+    },
+    {
+      "id": "7",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg7.avif"
+    },
+    {
+      "id": "8",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg8.avif"
+    },
+    {
+      "id": "9",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg9.avif"
+    },
+    {
+      "id": "10",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg10.avif"
+    },
+    {
+      "id": "6",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg6.avif"
+    },
+    {
+      "id": "5",
+      "name": "Pears",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt",
+      "price": "4.99",
+      "img": "./assets/images/veg5.avif"
+    }
+  ]
+}

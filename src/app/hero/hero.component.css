@@ -1,0 +1,166 @@
+
+
+.hero-section {
+    height: 80%;
+}
+.hero-bg {
+    background-image: url('src/assets/images/hero-img.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hero-p {
+    font-size: 22px;
+    font-weight: 400;
+    padding-top: 8rem;
+}
+.hero-title {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.wrapper {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .input-wrapper {
+    position: relative;
+    display: inline-block;
+  }
+  
+  #form-control1 {
+    padding-right: 60px; /* Adjust the padding to accommodate the button */
+    border-radius: 50rem;
+    width: 500px;
+    height: 3rem;
+   
+  }
+  .form-control:focus {
+    border: 3px solid #F1AB22; /* Change border color on focus */
+  }
+
+  .hero-submit-btn {
+    background-color: #81C408;
+    padding: 0.6rem;
+    width: 40%;
+    border-radius: 50rem;
+    border: 3px solid #F1AB22;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transition: background-color 0.3s;
+    transform: translateY(-50%);
+  }
+  
+.hero-submit-btn:hover {
+    background-color: #F1AB22;
+}
+.owl-carousel .owl-item img {
+ 
+  display: block;
+  width: 100%;
+  border-radius: 17% !important;
+  align-items: center;
+ 
+}
+.item {
+  width: 100%;
+ 
+}
+.owl-carousel .item {
+  position: relative;
+}
+
+.image-container {
+  position: relative;
+}
+
+.centered-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px;
+  background-color: #E3B22E;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 1; /* Ensure the button is above the image */
+  font-size: 25px;
+  width: 50%;
+  opacity: 80%;
+}
+.pd {
+  padding-top: 5rem;
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+  background-color: #FFB524;
+  margin-left: 3rem;
+}
+.row-icons {
+  font-size: 85px; 
+  margin-left: 35px;
+  color: #FFFFFF;
+  margin-top: 30px;
+}
+.h3-color-gray {
+  color: #45595B;
+  padding-top: 10px;
+}
+
+.card {
+  width: 18.1rem;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid #F1AB22;
+  margin: 8px;
+  padding: 15px;
+  background-color: #F4F6F8;
+  cursor: pointer;
+}
+.card-body {
+  padding: 1rem;
+}
+.card h3 {
+  text-align: center;
+}
+.card p {
+  text-align: center;
+}
+.cardWrap {
+  display: flex !important;
+  flex-wrap: wrap;
+}
+@media screen and (max-width:992px) {
+    #form-control1 {
+        padding-right: 60px; /* Adjust the padding to accommodate the button */
+        border-radius: 50rem;
+        width: auto;
+        height: 3rem;
+      }
+      .hero-submit-btn {
+        background-color: #81C408;
+        padding: 10px;
+        width: auto;
+        border-radius: 50rem;
+        border: 3px solid #F1AB22;
+        font-size: 16px;
+        font-weight: bold;
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transition: background-color 0.3s;
+        transform: translateY(-50%);
+      }
+      .hero-section {
+        height: auto;
+    }
+      
+}

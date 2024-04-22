@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+
+.orange {
+   color: #F1AB22
+}
+.green {
+    color: #81C408;
+}
+p {
+    font-size: 18px;
+    color: #45595B;
+  }
+  .h1Color {
+    color: #455956;
+  }

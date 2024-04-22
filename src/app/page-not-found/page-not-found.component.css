@@ -1,0 +1,8 @@
+
+.bg {
+    background-image: url('../../assets/images/404page.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 85vh;
+}

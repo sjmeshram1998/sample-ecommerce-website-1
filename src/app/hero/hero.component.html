@@ -1,0 +1,83 @@
+
+<!-- hero section starts -->
+<div class="container-fluid hero-bg hero-section px-5 ">
+    <!-- <div class="container"> -->
+      <div class="row ">
+        <div class="col-md-6">
+          <p class="orange hero-p">100% Organic Foods</p>
+          <h1 class="hero-title green">Organic Veggies & Fruits Foods</h1>
+          <div class="wrapper">
+            <form class="d-flex">
+              <div class="input-wrapper">
+                <input class="form-control me-2" type="search" placeholder="Search"  aria-label="Search"
+                  id="form-control1">
+                <button class="btn text-white hero-submit-btn" type="submit">Submit Now</button>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="owl-carousel owl-theme pd">
+            <div class="item" *ngFor="let image of images">
+              <img [src]="image.path" class="pt-3" alt="slide1.png">
+              <a href="" class="btn centered-button">{{ image.name}}</a>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    <!-- </div> -->
+    </div>
+
+      
+      <!-- hero section ends -->
+      <div class="container-fluid pd ">
+       
+          <div class="cardWrap px-5 ">
+            <div class=" card" >
+              <div class="box rounded-circle ">
+                <i class="bi bi-truck row-icons"></i>
+              </div>
+             <div class="card-body">
+              <h3 class="h3-color-gray">Free Shipping</h3>
+              <p>Free on order over $300</p>
+             </div>
+            </div>
+
+            <div class="card" >
+              <div class="box rounded-circle">                
+                <i class="bi bi-person-fill-check row-icons"></i>
+              </div>
+            <div class="card-body">
+              <h3 class="h3-color-gray">Security Payment</h3>
+              <p>100% security payment </p>
+            </div>
+            </div>
+
+            <div class=" card" >
+              <div class="box rounded-circle">
+               
+                <i class="bi bi-arrow-left-right row-icons"></i>
+              </div>
+              <h3 class="h3-color-gray">30 Day Return
+              </h3>
+                <p>30 day money guarantee
+
+                </p>
+            </div>
+            <div class="card" >
+              <div class="box rounded-circle">
+                <i class="bi bi-telephone-fill row-icons"></i>
+              </div>
+              <h3 class="h3-color-gray">24/7 Support
+              </h3>
+                <p>Support every time fast
+
+                </p>
+            </div>
+            
+          </div>
+        <!-- </div> -->
+      </div>
+      <br>
